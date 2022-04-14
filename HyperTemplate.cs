@@ -1,6 +1,4 @@
-﻿using System;
-
-namespace HyperElk.Core
+﻿namespace HyperElk.Core
 {
     public class HyperTemplate : CombatRoutine
     {
@@ -22,12 +20,11 @@ namespace HyperElk.Core
         {
         }
 
-        // Executed every 100ms before CombaPulse and OutOfCombatPulse
+        // Executed every 100ms before CombatPulse and OutOfCombatPulse
         // This should contain anything you want to happen every pulse (and should be used sparingly), regardless of combat state.
         // This is used primarily by healers as their rotations are not really dependant on combat.
         public override void Pulse()
         {
-            
         }
 
         // Executed after Pulse() while the player is in combat.
