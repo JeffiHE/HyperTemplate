@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32328.378
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HyperTemplate", "HyperTemplate.csproj", "{CCA48596-EE35-48D7-B056-433DC2EA4035}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CCA48596-EE35-48D7-B056-433DC2EA4035}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCA48596-EE35-48D7-B056-433DC2EA4035}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCA48596-EE35-48D7-B056-433DC2EA4035}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCA48596-EE35-48D7-B056-433DC2EA4035}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9D7131F3-BF18-425D-9042-B48AEEB91A01}
+	EndGlobalSection
+EndGlobal
