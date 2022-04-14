@@ -7,9 +7,9 @@
         //  - Pulse
         //  - OutOfCombatPulse
         //  - CombatPulse
-
+        
         // Executed once when the rotation is loaded (then again if the rotation is reloaded) into HyperElk.
-        // This is where you will do this such as:
+        // This is where you will do:
         //  - Add Spells that will need to be cast (CombatRoutine.AddSpell)
         //  - Add Buffs/Debuffs that need to be tracked (CombatRoutine.AddBuff/AddDebuff)
         //      - This would also include any unit auras that you may want to dispell (Enrage, Curse, ect).
